@@ -9,9 +9,6 @@ https://unpkg.com/tuchuang.geren@0.0.3/什么.png
 
 
 
-npm 图床令牌token： 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
-
-
 图床软件包更新，大版本需要手动更替
 
 # 将更改提交
