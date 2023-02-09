@@ -1,6 +1,6 @@
 {
   "name": "tuchuang.geren",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "这是一个私人图床\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cnpm图床，仅此而已",
   "main": "index.js",
   "scripts": {
